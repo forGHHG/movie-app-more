@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movie-app-more/static/css/main.42d6f76d.css",
+    "main.js": "/movie-app-more/static/js/main.aa581b58.js",
+    "index.html": "/movie-app-more/index.html",
+    "main.42d6f76d.css.map": "/movie-app-more/static/css/main.42d6f76d.css.map",
+    "main.aa581b58.js.map": "/movie-app-more/static/js/main.aa581b58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42d6f76d.css",
+    "static/js/main.aa581b58.js"
+  ]
+}
